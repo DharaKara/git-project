@@ -1,5 +1,3 @@
 print("Hi")
 
-def get_coupon (
-        return 'Secret_Alex'
-)
+print("Hi my name is Dhara")
