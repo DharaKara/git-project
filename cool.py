@@ -21,5 +21,11 @@ print("This is awesome")
 # git reset --soft HEAD~1
 # git log --help
 # git log -Sdouble -p
-# pick-asxe
-# git log -2
+# pick-asxe up and down
+# git log -2 (last 2 commits)
+# shortcuts q is exit, n is next
+# /map <- can only search one word
+
+# git log -Smap -p
+# git log -2 (top 2 commits)
+# git log --graph (graph how commits made)
