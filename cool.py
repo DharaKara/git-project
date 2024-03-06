@@ -29,3 +29,12 @@ print("This is awesome")
 # git log -Smap -p
 # git log -2 (top 2 commits)
 # git log --graph (graph how commits made)
+
+# git checkout master <- Checkout to the master branch (old)
+# git merge dev <- Merge with dev branch (new)
+# merge conflict
+
+# Merge Conflict
+# 1. Resolve
+# 2. Stage
+# 3. Commit
